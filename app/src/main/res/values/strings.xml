@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CRUD_MVP-RX</string>
+    <string name="name">Nama</string>
+    <string name="phone_number">Nomor HP</string>
+    <string name="address">Alamat</string>
+    <string name="data_name">Data Nama</string>
+    <string name="data_phone_number">Data Nomor Handphone</string>
+    <string name="data_address">Data Alamat</string>
+    <string name="save">SIMPAN</string>
+    <string name="cancel">BATAL</string>
+    <string name="update">Update</string>
+</resources>
